@@ -252,3 +252,6 @@ Feel free to reach out!
 If you appreciate my work, you can support its development and maintenance. Improve the quality of the libraries by providing issues and Pull Requests, or make a donation.
 
 Thank you.
+
+## Acknowledgments
+- Inspiration for the `DigitalFilter_dff` lib from the [Phil's Lab #20](https://youtu.be/MrbffdimDts) video tutorial.
