@@ -193,9 +193,9 @@ Y[n] = \frac{1}{N} \sum_{i=0}^{N-1} X[n-i]
 $$
 
 Where:
-- $ Y[n] $: The filtered output at the current sample $n$.
-- $ X[n] $: The input signal at the current sample $n$.
-- $ N $: The window size (number of samples to average).
+- $Y[n]$: The filtered output at the current sample $n$.
+- $X[n]$: The input signal at the current sample $n$.
+- $N$: The window size (number of samples to average).
 
 This filter is particularly effective for reducing high-frequency noise in a signal. However, it introduces a delay proportional to the window size $(N-1)/2$.
 
@@ -207,14 +207,16 @@ Y[n] = \alpha \cdot X[n] + (1 - \alpha) \cdot Y[n-1]
 $$
 
 Where:
-- $ Y[n] $: The filtered output at the current sample $ n $.
-- $ X[n] $: The input signal at the current sample $ n $.
-- $ \alpha $: The smoothing factor, calculated as:
-  $$
+- $Y[n]$: The filtered output at the current sample $n$.
+- $X[n]$: The input signal at the current sample $n$.
+- $\alpha$: The smoothing factor, calculated as:
+
+$$
   \alpha = \frac{2 \pi f_c}{2 \pi f_c + f_s}
-  $$
-  - $ f_c $: The cutoff frequency of the filter.
-  - $ f_s $: The sampling rate of the input signal.
+$$
+  
+  - $f_c$: The cutoff frequency of the filter.
+  - $f_s$: The sampling rate of the input signal.
 
 The EWMA Low Pass Filter is computationally efficient and suitable for real-time applications. It is commonly used to smooth signals while preserving low-frequency components and attenuating high-frequency noise.
 
