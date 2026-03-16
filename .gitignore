@@ -1,0 +1,101 @@
+*.o
+*.d
+*.swp
+*.tmp
+*.log
+*.bak
+*.bin
+*.elf
+*.hex
+*.map
+*.a
+*.pyc
+*.class
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.zip
+*.tar.gz
+*.log
+*.out
+*.dep
+*.dSYM/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.aps
+*.ncb
+*.suo
+*.user
+*.sln
+*.plg
+*.vssscc
+*.vspxproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.tlog
+*.lastbuildstate
+ipch/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.VC.opendb
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+
+# pio and vscode files
+.pio/
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# diagrams
+*.drawio
+*.drawio.bkp
