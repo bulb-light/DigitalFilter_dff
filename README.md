@@ -1,6 +1,27 @@
+<div align="center"><p>
+    <a href="https://github.com/bulb-light/DigitalFilter_dff/pulse">
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/bulb-light/DigitalFilter_dff?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+    <a href="https://github.com/bulb-light/DigitalFilter_dff/blob/master/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/bulb-light/DigitalFilter_dff?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DigitalFilter_dff/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/bulb-light/DigitalFilter_dff?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DigitalFilter_dff/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/bulb-light/DigitalFilter_dff?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DigitalFilter_dff">
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/bulb-light/DigitalFilter_dff?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://www.youtube.com/@david-dff-bulblight">
+      <img alt="follow on Youtube" src="https://img.shields.io/twitter/follow/david-dff-bulblight?style=for-the-badge&logo=youtube&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+</div>
+
 # DigitalFilter_dff Library
 
-The `DigitalFilter_dff` library provides an implementation of discrete digital filters for signal processing. It is designed for use in embedded systems such as Arduino and ESP32 boards.
+The `DigitalFilter_dff` library is compatible with Arduino and ESP32 platforms and provides implementations of discrete digital filters for signal processing.
 
 Experimental library. Minimal tested, so usage remarks and comments are welcome.
 
